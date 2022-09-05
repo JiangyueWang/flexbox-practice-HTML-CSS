@@ -4,4 +4,4 @@
 
 # example imag below
 
-image.png
+<img src="./images/result-img.jpg">
